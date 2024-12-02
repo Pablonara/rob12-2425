@@ -5,5 +5,8 @@ theme:
   name: material
   icon:
     repo: fontawesome/brands/git-alt
-  features:
+  features:  
     - header.autohide
+
+
+
